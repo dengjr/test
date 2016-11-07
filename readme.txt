@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-dengjurnu
-=======
-dengjurnu
-testing
->>>>>>> testing
+hello jenen
